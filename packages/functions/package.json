@@ -3,10 +3,9 @@
 	"version": "0.0.0",
 	"type": "module",
 	"dependencies": {
-		"@monorepo-template/core": "*",
-		"sst": "*"
+		"@monorepo-template/core": "workspace:"
 	},
 	"devDependencies": {
-		"@types/aws-lambda": "^8"
+		"@types/aws-lambda": "8.10.149"
 	}
 }

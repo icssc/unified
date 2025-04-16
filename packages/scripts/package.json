@@ -3,14 +3,13 @@
 	"version": "0.0.0",
 	"type": "module",
 	"dependencies": {
-		"@monorepo-template/core": "*",
-		"sst": "*"
+		"@monorepo-template/core": "workspace:"
 	},
 	"scripts": {
 		"shell": "sst shell tsx"
 	},
 	"devDependencies": {
-		"@types/node": "^22",
-		"tsx": "^4"
+		"@types/node": "22.14.1",
+		"tsx": "4.19.3"
 	}
 }
