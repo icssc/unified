@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       sst:
-        specifier: ^3
+        specifier: 3.13.10
         version: 3.13.10
     devDependencies:
       '@tsconfig/node22':
-        specifier: ^22
+        specifier: 22.0.1
         version: 22.0.1
       typescript:
-        specifier: ^5
+        specifier: 5.8.3
         version: 5.8.3
 
 packages:
